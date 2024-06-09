@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on developing a Website for things school doesn`t teach you<br>Im currently learning c++<br>Ake me about anything cybersecurity related
+Im currently working on developing a Website for things school doesn`t teach you<br>Im currently learning c++<br>Ask me about anything cybersecurity related
 
 
 ## 🌐 Socials:
